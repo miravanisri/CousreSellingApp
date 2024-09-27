@@ -1,5 +1,5 @@
 # CourseApp
-CourseApp is a web-based platform for managing and purchasing courses. It is built using the MERN stack (MongoDB, Express.js,and Node.js). The application includes an admin section for course management and a user section for purchasing and managing courses.
+CourseApp is a web-based platform for managing and purchasing courses. It is built using the MongoDB, Express.js,and Node.js. The application includes an admin section for course management and a user section for purchasing and managing courses.
 
 ## Table of Contents
 * Features
